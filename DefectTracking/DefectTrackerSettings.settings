@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DefectTracking" GeneratedClassName="DefectTrackerSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TFSuri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://bkrtfs01:8080/tfs/</Value>
+    </Setting>
+    <Setting Name="TFScollection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BKR_FindingCollection</Value>
+    </Setting>
+    <Setting Name="TFSproject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BKR Bevindingadministratiesysteem</Value>
+    </Setting>
+    <Setting Name="TFSworkItemType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Finding</Value>
+    </Setting>
+    <Setting Name="BKR_Priority" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 - Immediate</Value>
+    </Setting>
+    <Setting Name="BKR_FindingType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Defect</Value>
+    </Setting>
+    <Setting Name="ToscaTFSProject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TFSProject</Value>
+    </Setting>
+    <Setting Name="ToscaScreenshotFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\TOSCA_PROJECTS\ToscaCommander\Screenshots\failedTestSteps</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
